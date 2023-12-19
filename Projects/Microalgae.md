@@ -25,7 +25,7 @@ nav_order: 2
     in an airlift photobioreactor.
 
 ### __Tasks / Outcomes__ 
-- Designed and executed experiments to assess the effect of microalgae culture conditions – nitrate and CO2 concentrations, light/dark cycles, and temperature – on growth rate, lipid content, and carbon capture of local *Synechococcus elongatus*.
+- Designed and executed experiments to assess the effect of microalgae culture conditions – nitrate and CO2 concentrations, light/dark cycles, and temperature – and flow rate on growth rate, lipid content, and carbon capture of local *Synechococcus elongatus*.
 - Effectively gathered, evaluated, and visualized data across various projects and showcased findings at national conferences.
 
 ---
