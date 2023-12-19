@@ -88,7 +88,7 @@ exclude:
 
 # Theme settings
 remote_theme: just-the-docs/just-the-docs@v0.7.0
-#color_scheme: gr
+color_scheme: gr
 mermaid:
   # Version of mermaid library
   # Pick an available version from https://cdn.jsdelivr.net/npm/mermaid/
