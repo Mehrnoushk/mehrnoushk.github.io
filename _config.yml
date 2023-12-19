@@ -87,7 +87,7 @@ exclude:
    - README.md
 
 # Theme settings
-#remote_theme: just-the-docs/just-the-docs@v0.3.3
+remote_theme: just-the-docs/just-the-docs@v0.7.0
 mermaid:
   # Version of mermaid library
   # Pick an available version from https://cdn.jsdelivr.net/npm/mermaid/
