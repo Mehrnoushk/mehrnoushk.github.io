@@ -1,11 +1,12 @@
 @import "./color_schemes/light";
 
+$color-scheme: light;
 $body-background-color: $white;
 $body-heading-color: $grey-dk-300;
 $body-text-color: $grey-dk-100;
-$link-color: #f7f7f7;
-$nav-child-link-color: #f7f7f7;
-$sidebar-color: #00694E;
+$link-color: $purple-000;
+$nav-child-link-color: $grey-dk-100;
+$sidebar-color: #d1c7c7;
 $base-button-color: #f7f7f7;
 $btn-primary-color: $purple-100;
 $code-background-color: $grey-lt-000;
