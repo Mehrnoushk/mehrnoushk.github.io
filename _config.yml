@@ -39,7 +39,7 @@ ga_tracking_anonymize_ip: true
 #    About me:
 #      - ''
 
-color_scheme: gr
+
 
 ### appear after search bar in upper right
 aux_links:
@@ -88,6 +88,7 @@ exclude:
 
 # Theme settings
 remote_theme: just-the-docs/just-the-docs@v0.7.0
+#color_scheme: gr
 mermaid:
   # Version of mermaid library
   # Pick an available version from https://cdn.jsdelivr.net/npm/mermaid/
