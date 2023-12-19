@@ -32,12 +32,14 @@ plugins:
   - jekyll-seo-tag
 # 
 ga_tracking: G-TFCGC0E1MB
-ga_tracking_anonymize_ip: false 
+ga_tracking_anonymize_ip: true 
 
 #nav_links:
 #  Links:
 #    About me:
 #      - ''
+
+color_scheme: gr
 
 ### appear after search bar in upper right
 aux_links:
