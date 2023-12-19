@@ -31,7 +31,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 # 
-ga_tracking: G-TFCGC0E1MB
+ga_tracking: G-XVVMCCS5W5
 ga_tracking_anonymize_ip: true 
 
 #nav_links:
