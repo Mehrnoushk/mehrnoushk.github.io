@@ -8,8 +8,9 @@ nav_order: 1
 permalink: /
 ---
 
-Hello! 
-I'm Mehrnoush, a graduate student in Environmental Studies at Ohio University with a B.Sc. in Chemical Engineering. 
+Hello!
+
+> I'm Mehrnoush, a graduate student in Environmental Studies at **Ohio University** with a B.Sc. in Chemical Engineering. 
 
 > I work on developing green technologies.
 > Here, you can learn about my research interests and background.
